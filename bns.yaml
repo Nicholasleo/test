@@ -1,0 +1,11 @@
+train: /data/code/new_bns/20240627/train
+val:   /data/code/new_bns/20240627/val
+test:  /data/code/new_bns/20240627/test
+# number of classes
+nc: 2
+
+# class names
+names: [
+   'huguai'
+   'role' 
+]
